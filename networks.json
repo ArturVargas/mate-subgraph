@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "MateTreasure": {
+      "address": "0x58a261C38FC43384AaF6C4968426CDFd4be83f29",
+      "startBlock": 9234785
+    }
+  }
+}
